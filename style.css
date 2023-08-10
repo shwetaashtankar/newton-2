@@ -1,0 +1,23 @@
+.outer-square {
+    /* your css goes here */
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 200px 200px 200px;
+  
+  }
+  .inner-square {
+    /* your css goes here */
+    background-color: green;
+    margin: 10px 10px 10px 10px;
+    box-sizing: border-box;
+  
+  
+  }
+  .circle {
+    /* your css goes here */
+    background-color: blue;
+    border-radius: 50%;
+    margin: 10px 10px 10px 10px;
+    box-sizing: border-box;
+  }
+  
